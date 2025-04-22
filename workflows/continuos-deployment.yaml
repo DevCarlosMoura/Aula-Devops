@@ -33,3 +33,4 @@ on:
                 with:
                   app-name: DevCarlosMoura  
                   publish-profile: ${{ secrets.PUBLISH_PROFILE}}
+                  image: DevCarlosMoura/Aula-devops
